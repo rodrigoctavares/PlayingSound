@@ -1,7 +1,7 @@
 <h1><strong>Playing Sound</strong></h1>
 
 
-Learn how to add a sound funtionality in your app. The user will be able to play, stop and loop the sound. 
+Learn how to add a sound functionality in your app. The user will be able to play, stop and loop the sound. 
 
 <p>You will learn:</p>
 
