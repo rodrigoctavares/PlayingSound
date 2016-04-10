@@ -14,8 +14,8 @@ Learn how to add a sound functionality in your app. The user will be able to pla
  
  <p>Final Output:</p>
  
- ![image](https://i0.wp.com/programmingforweb.com/wp-content/uploads/2016/03/soundsEmulator.png)
+ ![image](http://i2.wp.com/codingwithandroid.com/wp-content/uploads/2016/03/soundsEmulator.png)
  
- See my blog [Programming For Web](https://programmingforweb.com/play-sound-android-app/) for more information about how I did my collections of apps.
+ See my blog [Coding With Android](http://codingwithandroid.com/blog/play-sound-android-app/) for more information about how I did my collections of apps.
 
  
